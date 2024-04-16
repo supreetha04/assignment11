@@ -5,8 +5,4 @@
 5. git branch test
 6. git checkout test
 7. git merge test
-
-
-
-
-
+8. git log --oneline --decorate
